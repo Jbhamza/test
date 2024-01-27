@@ -1,8 +1,9 @@
 h1 {
-    color: yellow;
+    color: goldenrod;
 }
 
 body {
     background-color: maroon;
     font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
